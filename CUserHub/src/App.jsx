@@ -1,4 +1,5 @@
 import { Button } from "./components/Button";
+import { Navbar } from "./components/Navbar";
 import { Signin } from "./pages/Signin";
 import { Login } from "./pages/Login";
 import { Dashboard } from "./pages/Dashboard";
